@@ -20,4 +20,4 @@ jobs:
         pip install -r Requirements.txt
     - name: Run tests
       run: |
-        pytest
+        test
